@@ -52,4 +52,4 @@
 
 
 ### GETTING DIFFICULTIES TO RUN TESTS
-[Guide] (https://stackoverflow.com/questions/71893906/run-mocha-with-typescript-throws-typeerror-err-unknown-file-extension-unknow)
+- Any blocker: [Guide](https://stackoverflow.com/questions/71893906/run-mocha-with-typescript-throws-typeerror-err-unknown-file-extension-unknow)
